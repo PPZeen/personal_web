@@ -1,4 +1,4 @@
-import { HomeBG, Web_H1, Web_H3, Web_H4, Web_H5, Game_H1 } from '../assets/images'
+import { HomeBG } from '../assets/images'
 
 export default function Home () {
     return (
