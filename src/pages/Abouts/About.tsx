@@ -31,10 +31,9 @@ export default function About() {
                         <h1 className="pb-8 max-md:pb-2">About me</h1>
                         <p className="text-center w-[65%] max-lg:w-[75%] max-md:w-[85%] max-md:text-sm max-sm:text-xs max-[428px]:text-[0.6rem]/[0.7rem]">
                             My name is Nutthavat Phomak and I want to be a Full-Stack Developer. 
-                            I'm still learning essential skills to do it. now I'm looking for a co-op internship.
-                            Unfortunately, last summer I only had 1 month. so I couldn't do an internship.
-                            I really want to do because I prefer hands-on more and I like programming.
-                            Therefore, I usually do well in subjects that require programming.
+                            I'm still learning essential skills to do it. I'm interested in many things, such as
+                            application development, testing, devOps, and anything about software development
+                            I like programming. Therefore, I usually do well in subjects that require programming.
                         </p>
                     </div>
                 </div>
